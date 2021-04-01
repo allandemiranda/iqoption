@@ -146,7 +146,23 @@ disable=print-statement,
         comprehension-escape,
         C0114,
         C0115,
-        C0116
+        C0116,
+        W291,
+        W191,
+        E101,
+        W291,
+        singleton-comparison,
+        E712,
+        no-member,
+        no-else-break,
+        invalid-name,
+        unsubscriptable-object,
+        E501,
+        bare-except,
+        E722,
+        E501,
+        E201,
+        edefined-builtin
 
 # Enable the message, report, category or checker with the given id(s). You can
 # either give multiple identifier separated by comma (,) or put this option
